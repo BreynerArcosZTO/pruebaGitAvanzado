@@ -20,3 +20,5 @@ octopusExample:
 `Trying simple merge with transform`
 `Trying simple merge with load`
 `Merge made by the 'octopus' strategy.`
+
+Primera prueba de los merge
