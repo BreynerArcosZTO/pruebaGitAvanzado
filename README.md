@@ -23,4 +23,4 @@ octopusExample:
 
 Primera prueba de los merge
 
-Usando el segundo merge "Octopus"
+Usando el segundo merge "Octopus" despues de borrar la rama pruebaMerge
