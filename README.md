@@ -22,3 +22,5 @@ octopusExample:
 `Merge made by the 'octopus' strategy.`
 
 Primera prueba de los merge
+
+Usando el segundo merge "Octopus"
